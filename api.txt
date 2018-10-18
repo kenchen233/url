@@ -1,1 +1,1 @@
-http://api.30host.com/api.php
+http://api.30host.com/newapi.php
